@@ -339,7 +339,7 @@ export default function Home() {
   </div>
 </section>
       <footer className="border-t border-white/10 px-6 py-7 text-center text-xs tracking-wider text-white/40">
-        © {new Date().getFullYear()} RAY VISUALZ. ALL RIGHTS RESERVED.
+        © 2026 RAY VISUALZ. ALL RIGHTS RESERVED.
       </footer>
     </main>
   );
